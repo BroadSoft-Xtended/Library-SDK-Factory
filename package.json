@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git"
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils"
   },
   "devDependencies": {
     "mocha": "2.1.0",
